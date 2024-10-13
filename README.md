@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Dixon</h1>
 
-## :detective: About Me
+<h3 align="left">:detective: About Me</h3>
 I'm a computer science graduate from the University of New South Wales, passionate about learning, designing and coding software. All projects are built from the ground up, aiming to solve real-life problems or created simply out of interest.
 
-## 🌱 What I'm Up To
+<h3 align="left">🌱 What I'm Up To</h3>
 I’m currently exploring API development with **C# and ASP.NET Core**.
 
 <h3 align="left">Languages and Tools:</h3>
