@@ -6,17 +6,18 @@ I'm a computer science graduate from the University of New South Wales, passiona
 <h3 align="left">🌱 What I'm Up To</h3>
 I’m currently exploring API development with C# and ASP.NET Core.
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" align="left" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" align="left" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" align="left" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" align="left" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" align="left" style="padding-right:10px;"/>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" align="left" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" align="left" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" align="left" style="padding-right:10px;"/>
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" align="left" style="padding-right:10px;"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" align="left" style="padding-right:10px;"/>
+<h3 align="left">💻 Tech Stack</h3>
+
+![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23F80000?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23202020?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%230F0F11?style=for-the-badge&logo=angular)
+![React](https://img.shields.io/badge/react-%23202020?style=for-the-badge&logo=react)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%23202020?style=for-the-badge&logo=spring)
+![Firebase](https://img.shields.io/badge/firebase-%23DD2C00?style=for-the-badge&logo=firebase)
 
 
 
