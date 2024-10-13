@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo21427
-Fork on GitHub6736
 <h1 align="center">Hi 👋, I'm Dixon</h1>
 <h3 align="center">I'm a computer science graduate from the University of New South Wales, passionate about learning, designing and coding software. All projects are built from the ground up, aiming to solve real-life problems or created simply out of interest.</h3>
 
