@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dixon</h1>
+<h1 align="left">Hi 👋, I'm Dixon</h1>
 
-## About Me
+## :detective: About Me
 I'm a computer science graduate from the University of New South Wales, passionate about learning, designing and coding software. All projects are built from the ground up, aiming to solve real-life problems or created simply out of interest.
 
 ## 🌱 What I'm Up To
